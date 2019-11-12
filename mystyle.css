@@ -1,0 +1,33 @@
+img {
+   width:300px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: Helvetica;
+  
+}
+
+h1 {
+  color: blueviolet;
+  margin-left: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 12pt;
+}
+
+p{
+
+  font-weight: Normal;	
+  text-align: center;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
